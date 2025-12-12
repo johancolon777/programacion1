@@ -1,0 +1,15 @@
+C:\Users\atrin\Desktop\Johan\CapaDiseño\CapaDiseño\obj\Debug\CapaDiseño.csproj.AssemblyReference.cache
+C:\Users\atrin\Desktop\Johan\CapaDiseño\CapaDiseño\obj\Debug\CapaDiseño.Form1.resources
+C:\Users\atrin\Desktop\Johan\CapaDiseño\CapaDiseño\obj\Debug\CapaDiseño.Properties.Resources.resources
+C:\Users\atrin\Desktop\Johan\CapaDiseño\CapaDiseño\obj\Debug\CapaDiseño.csproj.GenerateResource.cache
+C:\Users\atrin\Desktop\Johan\CapaDiseño\CapaDiseño\obj\Debug\CapaDiseño.csproj.CoreCompileInputs.cache
+C:\Users\atrin\Desktop\Johan\CapaDiseño\CapaDiseño\bin\Debug\CapaDiseño.exe.config
+C:\Users\atrin\Desktop\Johan\CapaDiseño\CapaDiseño\bin\Debug\CapaDiseño.exe
+C:\Users\atrin\Desktop\Johan\CapaDiseño\CapaDiseño\bin\Debug\CapaDiseño.pdb
+C:\Users\atrin\Desktop\Johan\CapaDiseño\CapaDiseño\bin\Debug\CapaDatos.dll
+C:\Users\atrin\Desktop\Johan\CapaDiseño\CapaDiseño\bin\Debug\CapaNegocio.dll
+C:\Users\atrin\Desktop\Johan\CapaDiseño\CapaDiseño\bin\Debug\CapaDatos.pdb
+C:\Users\atrin\Desktop\Johan\CapaDiseño\CapaDiseño\bin\Debug\CapaNegocio.pdb
+C:\Users\atrin\Desktop\Johan\CapaDiseño\CapaDiseño\obj\Debug\CapaDiseño.csproj.Up2Date
+C:\Users\atrin\Desktop\Johan\CapaDiseño\CapaDiseño\obj\Debug\CapaDiseño.exe
+C:\Users\atrin\Desktop\Johan\CapaDiseño\CapaDiseño\obj\Debug\CapaDiseño.pdb
